@@ -1,5 +1,4 @@
 from app import create_app
-from decouple import config as 
 
 from config import config
 
